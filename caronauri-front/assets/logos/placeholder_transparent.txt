@@ -1,0 +1,5 @@
+This folder is for your logo image files. Rename or replace with the real PNGs:
+- logo_transparent.png
+- logo_white.png
+
+I couldn't access your local images; please copy your two logo PNGs into this folder. They will be used by the app if present.
